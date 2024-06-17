@@ -23,4 +23,4 @@ This script helps in managing and cleaning up older builds in the SAP Commerce C
 - It deletes builds that are older than the calculated timestamp using the `deleteBuild` API.
 
 ## How to Obtain Support
-This repository is provided "as-is"; SAP does not provide any additional support.
+This repository is provided "as-is";
