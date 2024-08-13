@@ -13,7 +13,7 @@ This script helps in managing and cleaning up older builds in the SAP Commerce C
 1. **Run the script:**
 
     ```bash
-    ./purgeOldBuilds.sh ENVIRONMENT_CODE API_KEY
+    ./purgeOldBuilds.sh SUBSCRIPTION_CODE API_KEY
     ```
 
 ## Script Details
